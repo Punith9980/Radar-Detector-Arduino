@@ -49,14 +49,14 @@ Arduino-Radar-Detector/
 
 1️⃣ Hardware Connections
 
-|--------------------|-------------|
+
 | Component          | Arduino Pin |
 |--------------------|-------------|
 | HC-SR04 Trig       | D9          |
 | HC-SR04 Echo       | D10         |
 | SG90 Servo Signal  | D11         |
 | 5V/GND             | Power Rails |
-|--------------------|-------------|
+
 
 Notes:
 
